@@ -1,0 +1,28 @@
+{
+  "name": "routing",
+  "version": "1.0.0",
+  "description": "sb exercise on node routes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Obby1/node-routes.git"
+  },
+  "keywords": [
+    "sb",
+    "exercise",
+    "node",
+    "routes"
+  ],
+  "author": "obby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Obby1/node-routes/issues"
+  },
+  "homepage": "https://github.com/Obby1/node-routes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
